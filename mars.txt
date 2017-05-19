@@ -1,2 +1,3 @@
 mars is red
 mars turns color
+mars become blue
