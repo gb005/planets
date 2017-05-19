@@ -1,3 +1,4 @@
 mars is red
 mars turns color
 mars become blue
+mars is exanding its size in a rate of 
